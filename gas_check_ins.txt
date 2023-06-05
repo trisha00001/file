@@ -1,0 +1,11 @@
+id;Gas station;Time
+0;4826;GasOne;60
+1;1186;GasSeven;180
+2;2643;GasOne;60
+3;2891;GasOne;60
+4;4662;GasOne;60
+5;3499;GasOne;60
+6;661;GasFour;180
+7;3850;GasOne;60
+8;1142;GasOne;60
+9;852;GasOne;60
